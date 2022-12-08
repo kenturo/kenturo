@@ -1,6 +1,6 @@
 ### Hello, I'm Kiet. Anh Dang (Ken) 👋
 - 💻 I'm a Senior FrontEnd Engineer.
-- 🔭 I’m currently working on [POPS Wordwide](https://popsww.com/en/).
+- :pushpin: I’m currently working on [POPS Wordwide](https://popsww.com/en/).
 
 
 Nice to meet you!
