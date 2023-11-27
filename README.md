@@ -1,9 +1,9 @@
 ### Hello, I'm Kiet (Ken) 👋
 - 💻 I'm a Senior FrontEnd Engineer.
-- :pushpin: I’m currently working on [POPS Wordwide](https://popsww.com/en/).
+- :pushpin: I’m currently working on [Naver Vietnam](https://navercorp.vn/).
 
 
-Nice to meet you!
+Nice to meet you
 
 <!--
 **kenturo/kenturo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
